@@ -1,0 +1,65 @@
+{
+    "steel_6_15": {
+        "speed": "1000",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "stainless_6_2": {
+        "speed": "1000",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "stainless_6_10": {
+        "speed": "1000",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "stainless_6_1.2": {
+        "speed": "1000",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "stainless_6_3": {
+        "speed": "1000",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "stainless_6_15": {
+        "speed": "8",
+        "focus": "0",
+        "nozzle": "1.0",
+        "pressure": "8",
+        "gas": "O2"
+    },
+    "steel_6_8": {
+        "speed": "",
+        "focus": "",
+        "nozzle": "",
+        "pressure": "",
+        "gas": ""
+    },
+    "steel_6_3": {
+        "speed": "",
+        "focus": "",
+        "nozzle": "",
+        "pressure": "",
+        "gas": ""
+    },
+    "steel_6_20": {
+        "speed": "",
+        "focus": "",
+        "nozzle": "",
+        "pressure": "",
+        "gas": ""
+    }
+}
